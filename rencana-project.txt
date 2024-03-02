@@ -1,2 +1,3 @@
 RENCANA MEMBUAT/MEMPERBAIKI PROJEK
 -membuat fitur login JavaScript atau PHP
+-mengumpulkan tugas jurusan tepat waktu dan design yang elegan
