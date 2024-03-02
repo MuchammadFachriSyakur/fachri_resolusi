@@ -1,2 +1,2 @@
-# fachri_resolui
+# fachri_resolusi
 Repository untuk menyimpan rencana Fachri kedepannya 
